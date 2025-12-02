@@ -2,5 +2,18 @@ body{
     background-color: rgb(39, 93, 93);
 }
 ul{
-    padding: 10px;
+    padding: 10px
+}
+
+h1{
+    text-align: center;
+    background-color: gray;
+    padding:45px;
+    font-size: 40px;
+}
+
+
+ul p{
+
+
 }
